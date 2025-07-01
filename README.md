@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! I'm Uppen Sharma — a passionate full stack developer from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! I'm Binay Uppen Sharma — a passionate full stack developer from India 🇮🇳</h2>
+
+---
 
 ### 👨‍💻 Internship Experience
 **Fimo Info Solutions Pvt. Ltd.**  
@@ -10,7 +12,7 @@
 
 ### 🚀 Projects
 
-#### 🎥 Live Streaming Web Application – [Open Source](#)
+#### 🎥 Live Streaming Web Application – [Open Source](https://github.com/Uppen-Sharma/Live-Streaming-Web-App)
 **Tech Stack**: Spring Boot, Thymeleaf, MySQL, OBS Studio, Nginx RTMP, FFmpeg, Video.js, Tailwind CSS  
 **Description**: A real-time live streaming web application using HLS (.m3u8), integrated with OBS Studio and FFmpeg. Features include:
 - ✅ Live Chat
@@ -52,7 +54,7 @@
 - **🎬 YouTube Video Downloader**  
   Web utility to download YouTube videos by URL with resolution and format selection.
 
-- **🛒 CRUD-Based E-commerce System** – [GitHub](#)  
+- **🛒 CRUD-Based E-commerce System** – [GitHub](https://github.com/Uppen-Sharma/OTP-CRUD-Ecommerce-App)  
   Feature-rich store with OTP/email login, cart, admin panel, and dynamic product listings.
 
 ---
@@ -94,7 +96,7 @@
   <a href="mailto:binayuppensharma@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="www.linkedin.com/in/binay-uppen-sharma-240972371" target="_blank">
+  <a href="https://www.linkedin.com/in/binay-uppen-sharma-240972371/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://github.com/Uppen-Sharma" target="_blank">
