@@ -1,92 +1,92 @@
-<h2 align="left">Hi 👋! I'm Binay Uppen Sharma — a passionate developer from India 🇮🇳</h2>
+<h2 align="left">Hi there 👋 I'm Binay Uppen Sharma — a passionate developer from India 🇮🇳</h2>
 
 ---
 
-### 👨‍💻 Internship Experience
+### 💼 Internship Experience
+
 **Fimo Info Solutions Pvt. Ltd.**  
-*Java Intern Developer | March 2025 – June 2025*  
-- Built and deployed a **Live Streaming Web Application** using Java Spring Boot, integrated with OBS Studio, Nginx RTMP, FFmpeg, and HLS streaming via Video.js. Deployed on Austere server and presented as a working demo.
-- Delivered complete project codebase and documentation. Also created a **Bulk SMS App** used for internal testing (not adopted officially due to pre-existing tools).
+*Java Intern Developer | Mar 2025 – Jun 2025*  
+- Developed and deployed a **Live Streaming Web App** using Java Spring Boot, integrated with OBS Studio, Nginx RTMP, FFmpeg, and HLS streaming via Video.js.  
+- Hosted on an Austere server and presented as a working demo with analytics, chat, recordings, and clip features.  
+- Also built a **Bulk SMS App** for internal testing with Excel import and Kafka-based SMS dispatch system.
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-#### 🎥 Live Streaming Web Application – [Open Source](https://github.com/Uppen-Sharma/Live-Streaming-Web-App)
-**Tech Stack**: Spring Boot, Thymeleaf, MySQL, OBS Studio, Nginx RTMP, FFmpeg, Video.js, Tailwind CSS  
-**Description**: A real-time live streaming web application using HLS (.m3u8), integrated with OBS Studio and FFmpeg. Features include:
-- ✅ Live Chat
-- 📊 Viewer Analytics & Charts
-- 💾 Session Recordings & Downloads
-- ✂️ Clip Highlights
+#### 🎥 **Live Streaming Web Application** – [View Repo](https://github.com/Uppen-Sharma/Live-Streaming-Web-App)
+- **Tech**: Spring Boot, Thymeleaf, MySQL, OBS, Nginx RTMP, FFmpeg, Video.js, Tailwind  
+- **Features**: Real-time video stream (HLS), chat, viewer analytics, recordings, downloads, highlights, charts.
 
 ---
 
-#### 💼 POSPRO: Advanced Point of Sale  
-**Tech Stack**: PHP, Java, JavaScript, HTML, Bootstrap, CSS, MySQL  
-**Description**: A web-based POS system for fast transaction processing and inventory control with a clean admin dashboard.
+#### 💼 **POSPRO: Point of Sale System**
+- **Tech**: PHP, Java, JavaScript, Bootstrap, HTML, CSS, MySQL  
+- Web-based POS for fast transactions and inventory control with a clean admin interface.
 
 ---
 
-#### 🎵 Music Player  
-**Tech Stack**: Flutter, Dart, Firebase, JavaScript  
-**Description**: A customizable cross-platform mobile music app with offline support, playlists, and smooth user navigation.
+#### 🎵 **Music Player App**
+- **Tech**: Flutter, Dart, Firebase  
+- Cross-platform app for Android/iOS with smooth playback, playlists, and customization.
 
 ---
 
-#### ⚖️ The Justice – Crime Reporting & Legal Assistance  
-**Tech Stack**: PHP, CSS, HTML, MySQL  
-**Description**: Web app for crime reporting, case tracking, and lawyer connection with a focus on accessibility and transparency.
+#### ⚖️ **The Justice**
+- **Tech**: PHP, MySQL, HTML, CSS  
+- A web portal to report crimes, track legal cases, and connect with legal professionals.
 
 ---
 
-#### 💍 Ornament Vending (Team Project)  
-**Tech Stack**: ASP.NET, VB.NET, SQL, HTML, CSS, JavaScript  
-**Description**: E-commerce site for ornament shopping, offering secure transactions and user-friendly interface.
+#### 💍 **Ornament Vending** (Team Project)
+- **Tech**: ASP.NET, VB.NET, SQL, JavaScript  
+- A shopping platform for ornaments with secure transactions and user-friendly browsing.
 
 ---
 
-### 🔧 Other Notable Projects
+#### 🔧 **Other Cool Stuff**
 
-- **📡 Bulk SMS Sender Web App**  
-  Upload Excel files and send thousands of SMS messages using Kafka and multithreaded parallel processing. Includes real-time preview and logs.
+- 📡 **Bulk SMS Sender Web App**  
+  Upload Excel, preview live, and dispatch 60K+ SMS using Kafka + multithreading.
 
-- **🎬 YouTube Video Downloader**  
-  Web utility to download YouTube videos by URL with resolution and format selection.
+- 🎬 **YouTube Video Downloader**  
+  Web tool to fetch and download videos by URL with format/quality options.
 
-- **🛒 CRUD-Based E-commerce System** – [GitHub](https://github.com/Uppen-Sharma/OTP-CRUD-Ecommerce-App)  
-  Feature-rich store with OTP/email login, cart, admin panel, and dynamic product listings.
+- 🛒 **OTP-Based E-Commerce System** – [View Repo](https://github.com/Uppen-Sharma/OTP-CRUD-Ecommerce-App)  
+  Secure login (OTP), admin panel, product listing, and cart management.
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🧰 Tools & Technologies
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="Firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="Kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="35" alt="Kafka" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" />
 </div>
 
 ---
@@ -94,12 +94,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uppen-Sharma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uppen-Sharma&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
 <div align="left">
   <a href="mailto:binayuppensharma@gmail.com" target="_blank">
