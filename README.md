@@ -52,7 +52,7 @@
 - 🎬 **YouTube Video Downloader**  
   Web tool to fetch and download videos by URL with format/quality options.
 
-- 🛒 **OTP-Based E-Commerce System** – [View Repo](https://github.com/Uppen-Sharma/OTP-CRUD-Ecommerce-App)  
+- 🛒 **OTP-Based E-Commerce System** – [View Repo](https://github.com/Uppen-Sharma/VerificationBasedCRUD)  
   Secure login (OTP), admin panel, product listing, and cart management.
 
 ---
