@@ -14,7 +14,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🎥 **Live Streaming Web Application** – [View Repo](https://github.com/Uppen-Sharma/Live-Streaming-Web-App)
+#### 🎥 **Live Streaming Web Application** – [View Repo](https://github.com/Uppen-Sharma/LiveStreamWebApp)
 - **Tech**: Spring Boot, Thymeleaf, MySQL, OBS, Nginx RTMP, FFmpeg, Video.js, Tailwind  
 - **Features**: Real-time video stream (HLS), chat, viewer analytics, recordings, downloads, highlights, charts.
 
