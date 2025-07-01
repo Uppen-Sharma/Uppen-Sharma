@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Binay Uppen Sharma — a passionate full stack developer from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! I'm Binay Uppen Sharma — a passionate developer from India 🇮🇳</h2>
 
 ---
 
