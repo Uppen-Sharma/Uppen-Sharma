@@ -1,116 +1,62 @@
-<h2 align="left">Hi there 👋 I'm Binay Uppen Sharma — a passionate developer from India 🇮🇳</h2>
+<h2 align="center">Hi there 👋 I'm Binay Uppen Sharma</h2>
+<p align="center">
+  <b>Passionate Full-Stack Developer & AI Enthusiast from India 🇮🇳</b>
+</p>
 
----
-
-### 💼 Internship Experience
-
-**Fimo Info Solutions Pvt. Ltd.**  
-*Java Intern Developer | Mar 2025 – Jun 2025*  
-- Developed and deployed a **Live Streaming Web App** using Java Spring Boot, integrated with OBS Studio, Nginx RTMP, FFmpeg, and HLS streaming via Video.js.  
-- Hosted on an Austere server and presented as a working demo with analytics, chat, recordings, and clip features.  
-- Also built a **Bulk SMS App** for internal testing with Excel import and Kafka-based SMS dispatch system.
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Focus-Java_%2F_Spring_Boot-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-RAG_%26_AI_Agents-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Docker_%26_Kafka-blueviolet?style=flat-square" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🎥 **Live Streaming Web Application** – [View Repo](https://github.com/Uppen-Sharma/LiveStreamWebApp)
-- **Tech**: Spring Boot, Thymeleaf, MySQL, OBS, Nginx RTMP, FFmpeg, Video.js, Tailwind  
-- **Features**: Real-time video stream (HLS), chat, viewer analytics, recordings, downloads, highlights, charts.
+#### 🎥 [Live Streaming Web App](https://github.com/Uppen-Sharma/LiveStreamWebApp)
+> **Tech:** Spring Boot, Nginx RTMP, FFmpeg, Video.js, MySQL
+- Full-featured streaming platform with real-time chat, viewer analytics, and HLS playback.
+- Integrated automated recording and highlight clipping.
+
+#### 🤖 [Gemini RAG Project](https://github.com/Uppen-Sharma/TaskFlows)
+> **Tech:** Python, JavaScript, Google Gemini API, Vector Databases
+- A Retrieval-Augmented Generation system designed for intelligent document interaction.
+- Focused on creating reusable frontend components for AI-driven UIs.
+
+#### 🎵 [Music Player App](https://github.com/Uppen-Sharma)
+> **Tech:** Flutter, Dart, Firebase
+- Cross-platform mobile application with smooth UI, cloud synchronization, and custom playlists.
+
+#### 🛒 [OTP-Based E-Commerce](https://github.com/Uppen-Sharma/VerificationBasedCRUD)
+> **Tech:** PHP, MySQL, JavaScript
+- Secure transaction system featuring admin dashboards, inventory management, and OTP authentication.
 
 ---
 
-#### 💼 **POSPRO: Point of Sale System**
-- **Tech**: PHP, Java, JavaScript, Bootstrap, HTML, CSS, MySQL  
-- Web-based POS for fast transactions and inventory control with a clean admin interface.
+### 🧰 Tech Stack
 
----
-
-#### 🎵 **Music Player App**
-- **Tech**: Flutter, Dart, Firebase  
-- Cross-platform app for Android/iOS with smooth playback, playlists, and customization.
-
----
-
-#### ⚖️ **The Justice**
-- **Tech**: PHP, MySQL, HTML, CSS  
-- A web portal to report crimes, track legal cases, and connect with legal professionals.
-
----
-
-#### 💍 **Ornament Vending** (Team Project)
-- **Tech**: ASP.NET, VB.NET, SQL, JavaScript  
-- A shopping platform for ornaments with secure transactions and user-friendly browsing.
-
----
-
-#### 🔧 **Other Cool Stuff**
-
-- 📡 **Bulk SMS Sender Web App**  
-  Upload Excel, preview live, and dispatch 60K+ SMS using Kafka + multithreading.
-
-- 🎬 **YouTube Video Downloader**  
-  Web tool to fetch and download videos by URL with format/quality options.
-
-- 🛒 **OTP-Based E-Commerce System** – [View Repo](https://github.com/Uppen-Sharma/VerificationBasedCRUD)  
-  Secure login (OTP), admin panel, product listing, and cart management.
-
----
-
-### 🧰 Tools & Technologies
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="35" alt="Kafka" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" />
-</div>
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Java, JavaScript, Python, PHP, Dart, SQL |
+| **Frameworks** | Spring Boot, Flutter, Bootstrap, Tailwind CSS |
+| **Databases** | MySQL, Firebase, Vector DBs |
+| **Infrastructure** | Docker, Apache Kafka, Nginx, Git |
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uppen-Sharma&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uppen-Sharma&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uppen-Sharma&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="45%" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
-<div align="left">
-  <a href="mailto:binayuppensharma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/binay-uppen-sharma-240972371/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://github.com/Uppen-Sharma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
-
----
+<p align="left">
+  <a href="mailto:binayuppensharma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/binay-uppen-sharma-240972371/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Uppen-Sharma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
