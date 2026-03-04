@@ -146,17 +146,22 @@ Modular job board API with JWT auth, resume uploads, geo-based job search, advan
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Uppen-Sharma&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Binay%27s+GitHub+Stats" height="180"/>
-&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uppen-Sharma&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uppen-Sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most+Used+Languages" height="175"/>
+<!-- GitHub Stats & Languages via stats.quine.sh (reliable alternative) -->
+<img src="https://stats.quine.sh/Uppen-Sharma/github?theme=dark" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Uppen-Sharma&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
+<!-- Language breakdown via github-readme-stats on alternate deployment -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Uppen-Sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most+Used+Languages" height="175"/>
+
+<br/><br/>
+
+<!-- Trophies via alternate deployment -->
+<img src="https://github-profile-trophy.vercel.app/?username=Uppen-Sharma&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="95%"/>
 
 </div>
 
