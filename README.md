@@ -1,29 +1,18 @@
-<!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Binay%20Uppen%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=18&animation=fadeIn" />
-</div>
 
-<!-- Typing Banner -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+pixel+to+payload;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React;HLS+Streaming+%7C+Kafka+%7C+Docker+%7C+MongoDB;Clean+Architecture+%7C+Security-First+%7C+Full+Stack" alt="Typing SVG" />
-  </a>
-</div>
+# 👋 Hey, I'm Binay Uppen Sharma
+### Full Stack Developer · India 🇮🇳
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+scalable+systems+from+pixel+to+payload;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React;HLS+Streaming+%7C+Kafka+%7C+Docker+%7C+MongoDB;Clean+Architecture+%7C+Security-First+%7C+Full+Stack)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Quick Stats Pills -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Uppen-Sharma&label=Profile+Views&color=7c3aed&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Projects-10%2B-7c3aed?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-7c3aed?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=flat-square" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Uppen-Sharma&label=Profile+Views&color=7c3aed&style=flat-square)
+![Projects](https://img.shields.io/badge/Projects-10%2B-7c3aed?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack-7c3aed?style=flat-square)
+![Open To](https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=flat-square)
 
-<br/>
+</div>
 
 ---
 
@@ -36,11 +25,11 @@
 ### 🎯 [TaskFlows](https://github.com/Uppen-Sharma/TaskFlows)
 > **High-Performance Task Management Ecosystem**
 
-A sophisticated platform with a **Proposal Workflow** (users propose → managers approve/reject), a **server-side Time Engine** with real-time visual indicators, and a **security-first** backend — Audit Logs, JWT Blacklisting, XSS/HPP protection.
+Sophisticated platform with a **Proposal Workflow** (propose → manager approves/rejects), **server-side Time Engine** with live visual indicators 🟢🟠🔴, and security-first backend — Audit Logs, JWT Blacklisting, Helmet, XSS & HPP protection.
 
 `React 18` `Vite` `Redux Toolkit` `Node.js` `Express` `MongoDB` `JWT` `Tailwind`
 
-🔗 **[task-flows-ten.vercel.app](https://task-flows-ten.vercel.app)**
+🔗 [task-flows-ten.vercel.app](https://task-flows-ten.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -48,7 +37,7 @@ A sophisticated platform with a **Proposal Workflow** (users propose → manager
 ### 📡 [Live Streaming App](https://github.com/Uppen-Sharma/LiveStreamWebApp)
 > **Real-Time HLS Broadcasting Platform**
 
-Full pipeline: **OBS Studio → Nginx RTMP → FFmpeg → HLS → Video.js**. Deployed with live chat, viewer analytics dashboard, recordings, downloads & highlight clips.
+Full pipeline: **OBS → Nginx RTMP → FFmpeg → HLS → Video.js**. Deployed on Austere server with live chat, viewer analytics, recordings, downloads & highlight clips.
 
 `Spring Boot` `Thymeleaf` `MySQL` `Nginx RTMP` `FFmpeg` `Video.js` `Tailwind`
 
@@ -60,7 +49,7 @@ Full pipeline: **OBS Studio → Nginx RTMP → FFmpeg → HLS → Video.js**. De
 ### 🧩 [Semantic Layer Dashboard](https://github.com/Uppen-Sharma/Database_Connection_Components)
 > **AI-Ready Data Management UI**
 
-React dashboard for DB connections, data catalog exploration, KPI metric builder with formula engine, JSON semantic model editor with live validation, and LLM Classification shell. Glassmorphism UI, fully responsive, lazy-loaded routes.
+React dashboard for DB connections (MySQL, PostgreSQL, MongoDB), data catalog exploration, KPI builder with formula engine, JSON semantic model editor with live validation, and LLM Classification shell. Glassmorphism UI, lazy-loaded routes.
 
 `React` `Vite` `Redux Toolkit` `Tailwind` `Docker` `React Router v6`
 
@@ -70,7 +59,7 @@ React dashboard for DB connections, data catalog exploration, KPI metric builder
 ### 💼 [Jobbee API](https://github.com/Uppen-Sharma/Jobbee-API)
 > **Production-Ready REST API**
 
-Modular job board API with JWT auth, resume uploads, geo-based job search, advanced query filters (pagination, sorting, field selection, comparison operators), admin controls and clean HTTP response coverage.
+Modular job board API with JWT auth, resume uploads, geo-based job search, advanced query filters (pagination, sorting, field selection, geo-search), admin controls and complete HTTP response coverage.
 
 `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Multer` `Nodemailer` `BCrypt`
 
@@ -146,21 +135,24 @@ Modular job board API with JWT auth, resume uploads, geo-based job search, advan
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Uppen-Sharma&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Binay%27s+GitHub+Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uppen-Sharma&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Uppen-Sharma&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Binay%27s+GitHub+Stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uppen-Sharma&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uppen-Sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most+Used+Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uppen-Sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most+Used+Languages" height="175"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uppen-Sharma&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Uppen-Sharma&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Uppen-Sharma&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
@@ -176,13 +168,8 @@ Modular job board API with JWT auth, resume uploads, geo-based job search, advan
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Uppen--Sharma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uppen-Sharma)
 
-</div>
+<br/><br/>
 
-<!-- Footer Wave -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
-</div>
+*⚡ From pixel to payload — I build the whole stack.*
 
-<div align="center">
-  <sub>⚡ <i>From pixel to payload — I build the whole stack.</i></sub>
 </div>
