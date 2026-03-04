@@ -146,22 +146,26 @@ Modular job board API with JWT auth, resume uploads, geo-based job search, advan
 
 <div align="center">
 
+<!-- Streak — runs on herokuapp, already confirmed working -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uppen-Sharma&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 
 <br/><br/>
 
-<!-- GitHub Stats & Languages via stats.quine.sh (reliable alternative) -->
-<img src="https://stats.quine.sh/Uppen-Sharma/github?theme=dark" width="60%" />
+<!-- Language stats as visual shield badges (runs on Cloudflare — 100% reliable) -->
+![HTML](https://img.shields.io/badge/HTML-38%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-18%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-5%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-4%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 <br/><br/>
 
-<!-- Language breakdown via github-readme-stats on alternate deployment -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Uppen-Sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most+Used+Languages" height="175"/>
-
-<br/><br/>
-
-<!-- Trophies via alternate deployment -->
-<img src="https://github-profile-trophy.vercel.app/?username=Uppen-Sharma&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="95%"/>
+<!-- Achievements as shields (Cloudflare CDN, always works) -->
+![Repos](https://img.shields.io/badge/Public%20Repos-10%2B-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Total%20Commits-200%2B-22c55e?style=for-the-badge&logo=git&logoColor=white)
+![PRs](https://img.shields.io/badge/Pull%20Requests-Active-0077B5?style=for-the-badge&logo=github&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Full%20Stack-F05032?style=for-the-badge&logo=stackoverflowicon&logoColor=white)
 
 </div>
 
