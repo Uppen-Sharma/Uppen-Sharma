@@ -45,7 +45,7 @@ A sophisticated platform with a **Proposal Workflow** (users propose → manager
 </td>
 <td width="50%" valign="top">
 
-### 📡 [Live Streaming App](https://github.com/Uppen-Sharma/LiveStreamWebApp)
+### 📡 [LiveStreamWebApp](https://github.com/Uppen-Sharma/LiveStreamWebApp)
 > **Real-Time HLS Broadcasting Platform**
 
 Full pipeline: **OBS Studio → Nginx RTMP → FFmpeg → HLS → Video.js**. Deployed with live chat, viewer analytics dashboard, recordings, downloads & highlight clips.
@@ -57,22 +57,51 @@ Full pipeline: **OBS Studio → Nginx RTMP → FFmpeg → HLS → Video.js**. De
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 [Semantic Layer Dashboard](https://github.com/Uppen-Sharma/Database_Connection_Components)
-> **AI-Ready Data Management UI**
+### 🛒 [VerificationBasedCRUD](https://github.com/Uppen-Sharma/VerificationBasedCRUD)
+> **OTP-Authenticated E-Commerce App**
 
-React dashboard for DB connections, data catalog exploration, KPI metric builder with formula engine, JSON semantic model editor with live validation, and LLM Classification shell. Glassmorphism UI, fully responsive, lazy-loaded routes.
+Verification-based e-commerce CRUD application featuring OTP & email authentication, admin panel, product listing, and cart management.
 
-`React` `Vite` `Redux Toolkit` `Tailwind` `Docker` `React Router v6`
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 [Jobbee API](https://github.com/Uppen-Sharma/Jobbee-API)
+### 💼 [Jobbee-API](https://github.com/Uppen-Sharma/Jobbee-API)
 > **Production-Ready REST API**
 
 Modular job board API with JWT auth, resume uploads, geo-based job search, advanced query filters (pagination, sorting, field selection, comparison operators), admin controls and clean HTTP response coverage.
 
 `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Multer` `Nodemailer` `BCrypt`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI & LLM Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Multi-Agent-Reflection (MAR) System](https://github.com/Uppen-Sharma/Multi-Agent-Reflection-MAR-System)
+> **Multi-Agent AI Orchestration**
+
+A multi-agent system with reflection loops built with Node.js, TypeScript, and Ollama — enabling agents to self-evaluate and iteratively improve outputs.
+
+`Node.js` `TypeScript` `Ollama`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [RAG Project](https://github.com/Uppen-Sharma/RAG_Project)
+> **Retrieval-Augmented Generation**
+
+Hands-on AI and LLM engineering learnings — implementing RAG pipelines for grounded, context-aware language model responses.
+
+`Python` `LLM` `RAG`
 
 </td>
 </tr>
@@ -86,8 +115,10 @@ Modular job board API with JWT auth, resume uploads, geo-based job search, advan
 
 | &nbsp; | Project | What It Does | Stack |
 |:---:|---|---|---|
+| 🧩 | **[Database Connection Components](https://github.com/Uppen-Sharma/Database_Connection_Components)** *(Private)* | AI-ready semantic layer dashboard — DB connections, KPI builder, JSON model editor, LLM classification shell | `React` `Vite` `Redux Toolkit` `Tailwind` `Docker` |
+| ⚡ | **[Python FastAPI](https://github.com/Uppen-Sharma/Python-FASTApi)** | FastAPI experiments and REST API development with Python | `Python` `FastAPI` |
+| 🧪 | **[React-Redux-Vite Testing](https://github.com/Uppen-Sharma/React-Redux-and-Vite-Testing-Projects)** | Testing projects and experiments with React, Redux, and Vite tooling | `JavaScript` `React` `Redux` `Vite` |
 | 💬 | **Bulk SMS Sender** | Upload Excel → live preview → dispatch 60K+ SMS | `Kafka` `Java` `Multithreading` |
-| 🛒 | **[OTP E-Commerce](https://github.com/Uppen-Sharma/VerificationBasedCRUD)** | OTP login, admin panel, product listing & cart | `PHP` `MySQL` `JavaScript` |
 | 🎵 | **Music Player App** | Cross-platform Android/iOS with playlists | `Flutter` `Dart` `Firebase` |
 | ⚖️ | **The Justice** | Crime reporting & legal case tracking portal | `PHP` `MySQL` `HTML/CSS` |
 | 🏪 | **POSPRO** | Point-of-sale with inventory & admin interface | `PHP` `Java` `Bootstrap` `MySQL` |
@@ -106,6 +137,8 @@ Modular job board API with JWT auth, resume uploads, geo-based job search, advan
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -117,10 +150,17 @@ Modular job board API with JWT auth, resume uploads, geo-based job search, advan
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**AI / LLM**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7c3aed?style=for-the-badge&logoColor=white)
 
 **Databases & Infrastructure**
 
